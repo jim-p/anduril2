@@ -45,6 +45,7 @@ Model	Name                          	MCU
 0421	ff-pl47                       	attiny85
 0422	ff-pl47-219                   	attiny85
 0423	ff-pl47g2                     	attiny85
+0424	ff-pl47g2-219                 	attiny85
 0441	ff-e01                        	attiny85
 0511	mateminco-mf01s               	attiny85
 0521	mateminco-mf01-mini           	attiny85
